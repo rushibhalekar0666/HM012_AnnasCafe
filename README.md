@@ -65,3 +65,68 @@
 
 # Mockups 
    
+![alt text](<Screenshot 2026-01-18 051104.png>) ![alt text](<Screenshot 2026-01-18 051443.png>) ![alt text](<Screenshot 2026-01-18 051427.png>) ![alt text](<Screenshot 2026-01-18 051411.png>) ![alt text](<Screenshot 2026-01-18 051404.png>) ![alt text](<Screenshot 2026-01-18 051356.png>) ![alt text](<Screenshot 2026-01-18 051252.png>) ![alt text](<Screenshot 2026-01-18 051240.png>) ![alt text](<Screenshot 2026-01-18 051230.png>) ![alt text](<Screenshot 2026-01-18 051216.png>) ![alt text](<Screenshot 2026-01-18 051201.png>) ![alt text](<Screenshot 2026-01-18 051144.png>) ![alt text](<Screenshot 2026-01-18 051128.png>) ![alt text](<Screenshot 2026-01-18 051115.png>)
+
+# Tech Stack
+# echnologies Used (Current Implementation)
+1. Frontend
+   React.js – For building a component-based user interface
+
+   TypeScript – For type safety and better code maintainability
+
+   Vite – For fast development and optimized build process
+
+   Tailwind CSS – For clean, responsive, and consistent UI design
+
+2. Routing
+   React Router DOM – For role-based navigation and page routing
+
+3. Version Control
+   Git – For source code management
+
+   GitHub – For collaboration, version tracking, and project hosting
+
+4. Technologies Planned (Future Implementation)
+   Backend
+
+   Node.js – Server-side runtime
+
+   Express.js – REST API development
+
+   Database
+
+   MongoDB – To store users, equipment listings, bookings, and reviews
+
+   Authentication
+
+   JWT (JSON Web Tokens) – Secure role-based authentication
+
+   OTP-based login (optional enhancement)
+
+   AI / ML Integration
+
+   Recommendation system for suggesting nearby and suitable equipment
+
+   Demand-based insights to reduce equipment idle time
+
+   Payments
+
+   UPI / Payment Gateway integration for secure digital transactions
+
+   Admin Panel
+
+   Dashboard for monitoring users, equipment, bookings, and disputes
+
+   Deployment
+
+   Frontend: Vercel / Netlify
+
+   Backend: Render / AWS / Railway
+
+# contributors
+  [Rushikesh Bhalekar](https.//github.com/rushibhalekar0666)
+  [Sanket Bhosale](https.//github.com/sanketbhosale16)
+  [Shrijeet Bhopale](https.//github.com/shrijeetb)
+  [Aditya Kirdat](https.//github.com/adukirdat)
+
+  
