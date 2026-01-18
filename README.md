@@ -122,6 +122,8 @@
    Frontend: Vercel / Netlify
 
    Backend: Render / AWS / Railway
+# PDF Link (ppt)
+https://drive.google.com/file/d/1oCVWoLlCIYlMzodyHzbLJZ2kYqqM_bmh/view?usp=drive_link
 
 # contributors
   [Rushikesh Bhalekar](https.//github.com/rushibhalekar0666)
